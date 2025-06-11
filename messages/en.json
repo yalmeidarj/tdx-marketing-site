@@ -1,0 +1,10 @@
+{
+  "HomePage": {
+    "title": "Hello world!",
+    "about": "Go to the about page"
+  },
+  "Footer": {
+    "title": "About this app",
+    "description": "This is a simple example of an app using i18n."
+  }
+}
