@@ -1,6 +1,6 @@
 import { Phone, Mail, MapPin } from 'lucide-react'
 import { getMessages, getTranslations } from 'next-intl/server';
-import { toast } from 'sonner';
+
 import ContactForm from './contact-form';
 
   
@@ -18,18 +18,6 @@ export default async function Contact() {
                 <p className="section-sub max-w-2xl mx-auto">{t('subtitle')}</p>
                 <div className="mt-16 grid lg:grid-cols-2 gap-16 text-left">
 
-                    {/* <form
-                        onSubmit={handleSubmit}
-                        className="space-y-6">
-                        <input name="first" className="input" placeholder={t('form.first')} required />
-                        <input name="last" className="input" placeholder={t('form.last')} required />
-                        <input name="email" type="email" className="input" placeholder={t('form.email')} required />
-                        <textarea name="message" className="input h-32 resize-none" required
-                            placeholder={t('form.message')} />
-                        <button className="btn-primary w-full">
-                            {submitting ? '…' : placeholders.send}
-                        </button>
-                    </form> */}
                     <ContactForm
                         action="/api/send"
                         placeholders={{

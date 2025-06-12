@@ -1,4 +1,4 @@
-import { ArrowRight, Play } from 'lucide-react'
+import { ArrowRight } from 'lucide-react'
 import { getMessages, getTranslations } from 'next-intl/server'
 
 
@@ -24,10 +24,6 @@ export default async function Hero() {
                     <a href="#contact" className="btn-primary group">
                         {t('ctaPrimary')} <ArrowRight className="ml-2 group-hover:translate-x-1 transition-transform" size={20} />
                     </a>
-                    {/* <a href="/brochure.pdf" className="btn-outline group" target="_blank" rel="noreferrer">
-                        <Play size={20} className="mr-2 group-hover:scale-110 transition-transform" />
-                        {t('ctaSecondary')}
-                    </a> */}
                 </div>
             </div>
         </section>
