@@ -8,10 +8,10 @@
     "contact": "Contact"
   },
   "hero": {
-    "subheading": "30\u202F000+ Homes Reached \u00b7 Toronto & Ottawa",
+    "subheading": "120\u202F000+ Homes Reached \u00b7 Across Canada",
     "title": "Door\u2011to\u2011Door Sales Teams",
     "highlight": "That Deliver Results",
-    "text": "TDX Solution provides ethical, data\u2011driven outreach that turns knocks into customers \u2014 across telecom, energy, home\u2011service and non\u2011profit sectors.",
+    "text": "We provide ethical, data\u2011driven door\u2011to\u2011door outreach that turns knocks into customers \u2014 serving the telecom, energy, home\u2011service and non\u2011profit sectors.",
     "ctaPrimary": "Get in Touch",
     "ctaSecondary": "Download Brochure"
   },
@@ -20,48 +20,47 @@
       { "number": "85% +", "label": "Avg. Conversion" },
       { "number": "120\u202F000+", "label": "Households Engaged" },
       { "number": "5 +", "label": "Since 2020" },
-      { "number": "Ontario", "label": "Present all over the Province" }
+      { "number": "Canada", "label": "Present Nationwide" }
     ]
   },
   "services": {
     "title": "Our Services",
-    "subtitle": "General door\u2011to\u2011door outreach scaled to your campaign goals.",
+    "subtitle": "Comprehensive door\u2011to\u2011door outreach tailored to your campaign goals.",
     "items": [
       {
         "title": "Door\u2011to\u2011door sales teams",
-        "description": "Boost conversions with TDX Solutions’ elite door-to-door sales teams. Our fully trained brand ambassadors deliver ethical, face-to-face outreach that turns knocks into customers across Toronto, Ottawa, and the GTA. From prospecting to closing, we handle every step, maximizing ROI while safeguarding your brand reputation with data-driven scripts and compliant sales practices."
+        "description": "Boost conversions with our elite door-to-door sales teams. Our fully trained brand ambassadors deliver ethical, face-to-face outreach that turns knocks into customers across Canada. From prospecting to closing, we handle every step, maximizing your ROI while safeguarding your brand\u2019s reputation with data-driven scripts and compliant sales practices."
       },
       {
-        "title": "Targeted regional coverage",
-        "description": "Reach the right households at the right time. We overlay demographic, postal-code, and utility data to build laser-focused canvassing zones, ensuring hyper-local coverage throughout Southern Ontario."
+        "title": "Targeted regional outreach",
+        "description": "Reach the right households at the right time. We overlay demographic, postal-code, and utility data to build laser-focused canvassing zones, ensuring hyper-local coverage across Canada."
       },
       {
         "title": "Real\u2011time reporting and performance tracking",
         "description": "Stay in control! Track visits, conversions, and agent KPIs live from any device, integrate results with your CRM, and receive automated performance alerts. Transparent metrics empower you to optimize offers, adjust territories, and scale winning tactics instantly, keeping your campaign ahead of the competition."
       },
-
       {
         "title": "Non\u2011profit Campaigns",
-        "description": "Ethical fundraising and awareness drives that resonate at the door and build long\u2011term donor relationships for NGOs. Amplify your mission with TDX Solutions’ purpose-driven door-to-door fundraising teams. "
+        "description": "We conduct ethical door\u2011to\u2011door fundraising and awareness campaigns that resonate at the doorstep, building long\u2011term donor relationships for your NGO. Amplify your mission with our purpose\u2011driven door\u2011to\u2011door fundraising teams. "
       }
-    ],    
-      "more": "Learn More"            
+    ],
+    "more": "Learn More"
   },
   "process": {
     "title": "How It Works",
-    "subtitle": "A simple, repeatable framework refined over hundreds of campaigns.",
+    "subtitle": "A simple, repeatable framework refined over hundreds of door\u2011to\u2011door campaigns.",
     "steps": [
       {
         "title": "Recruit",
-        "text": "We hand\u2011pick background\u2011checked reps who fit your brand culture and compliance needs."
+        "text": "We hand\u2011pick background\u2011checked reps who fit your brand\u2019s culture and meet all compliance requirements."
       },
       {
         "title": "Train",
-        "text": "Role\u2011play, product deep dives, and objection handling \u2014 all tracked via LMS."
+        "text": "Role\u2011play, product deep dives, and objection handling. Our training is tailored to your unique process and goals."
       },
       {
         "title": "Deploy",
-        "text": "Teams roll out across Toronto & Ottawa regions with GPS check\u2011ins and live scripts."
+        "text": "Teams roll out across your target regions with GPS check\u2011ins and live scripts."
       },
       {
         "title": "Report",
@@ -74,22 +73,17 @@
     "subtitle": "Real campaigns, measurable impact.",
     "items": [
       {
-        "company": "FibreCo East",
-        "problem": "Slow subscriber growth in new roll\u2011out zones",
-        "solution": "TDX deployed two teams for a 6\u2011week blitz, tailoring the pitch to neighbourhood internet pain\u2011points.",
-        "result": "+1\u202F420 new sign\u2011ups (14% door\u2011to\u2011door conversion) and 96% CSAT."
-      },
-      {
-        "company": "GreenGrid Energy",
-        "problem": "Low adoption of smart thermostats in detached homes",
-        "solution": "Delivered a demo\u2011first script and QR\u2011code instant scheduling for installs.",
-        "result": "2\u202F300 qualified leads \u2192 880 installs in 8 weeks."
+        "company": "Acon",
+        "problem": "House-by-house consent was mandatory before fibre-optic construction in Toronto and Ottawa could begin, yet mailers and digital notices failed to reach every resident.",
+        "solution": "TDX fielded neighbourhood-mapped door-to-door teams that explained the project, addressed construction concerns, and captured signed consent in a mobile CRM for real-time tracking.",
+        "result": "100 000+ households visited and a 90 % homeowner consent rate, enabling the build to start on schedule without costly delays."
       }
+
     ]
   },
   "about": {
     "title": "Who We Are",
-    "text": "Founded in 2019, TDX Solution has helped partners engage over 30\u202F000 households across Toronto and Ottawa. Our mission is to build honest human connections at the doorstep while delivering real\u2011time, data\u2011rich results to our clients.",
+    "text": "Founded in 2019, TDX Solution has helped partners engage over 120\u202F000 households across Canada. Our mission is to build honest human connections at the doorstep while delivering real\u2011time, data\u2011rich results to our clients.",
     "points": [
       "Ethical, permission\u2011based selling",
       "Data dashboards updated every 24h",
@@ -100,7 +94,7 @@
   },
   "contact": {
     "title": "Get in Touch",
-    "subtitle": "Ready to boost your next campaign? Book a discovery call today.",
+    "subtitle": "Ready to boost your next campaign with door\u2011to\u2011door outreach? Book a discovery call today.",
     "form": {
       "first": "First name",
       "last": "Last name",
@@ -109,13 +103,12 @@
       "send": "Send Message"
     },
     "info": [
-      { "label": "Phone", "value": "+1\u00A0(416)\u00A0555\u20110134" },
       { "label": "Email", "value": "admin@tdxsolution.com" },
-      { "label": "Service Area", "value": "Toronto \u00b7 Ottawa" }
+      { "label": "Service Area", "value": "Canada\u2011wide" }
     ]
   },
   "footer": {
-    "summary": "Ethical door\u2011to\u2011door sales partner serving Toronto & Ottawa.\n30\u202F000+ households engaged since 2019.",
+    "summary": "Ethical door\u2011to\u2011door sales partner serving clients across Canada.\n120\u202F000+ households engaged since 2019.",
     "sections": [
       {
         "title": "Services",
@@ -133,9 +126,9 @@
       { "title": "Legal", "links": ["Privacy Policy", "Terms of Service"] }
     ],
     "copyright": "\u00a9\u00a02025\u00a0TDX\u00a0Solution\u00a0Inc.\u00a0\u00b7 All rights reserved.",
-    "developer":{
-      "description":"Want a beautifully crafted and SEO performant site? Contact the",
-      "name":"Developer"
+    "developer": {
+      "description": "Want a beautifully crafted and SEO performant site? Contact the",
+      "name": "Developer"
     }
   }
 }

@@ -8,120 +8,114 @@
     "contact": "Contact"
   },
   "hero": {
-    "subheading": "Plus de 30 000 foyers atteints · Toronto & Ottawa",
+    "subheading": "120 000+ foyers rejoints · Partout au Canada",
     "title": "Équipes de vente porte-à-porte",
-    "highlight": "qui obtiennent des résultats",
-    "text": "TDX Solution fournit une approche éthique et axée sur les données qui transforme les coups à la porte en clients — dans les secteurs des télécoms, de l’énergie, des services à domicile et des organisations à but non lucratif.",
-    "ctaPrimary": "Réserver un appel de 15 min",
+    "highlight": "Qui donnent des résultats",
+    "text": "Nous offrons une prospection éthique et axée sur les données qui transforme les portes cognées en clients — pour les secteurs des télécoms, de l’énergie, des services à domicile et des organismes à but non lucratif.",
+    "ctaPrimary": "Nous contacter",
     "ctaSecondary": "Télécharger la brochure"
   },
   "proof": {
     "stats": [
-      { "number": "30 000+", "label": "Foyers engagés" },
-      { "number": "12%", "label": "Taux de conversion moyen" },
-      { "number": "4", "label": "Équipes terrain dédiées" },
-      { "number": "2", "label": "Villes principales" }
+      { "number": "85 % +", "label": "Taux de conversion moyen" },
+      { "number": "120 000+", "label": "Foyers contactés" },
+      { "number": "5 +", "label": "Depuis 2020" },
+      { "number": "Canada", "label": "Présence nationale" }
     ]
   },
   "services": {
     "title": "Nos services",
-    "subtitle": "Sensibilisation porte-à-porte générale adaptée aux objectifs de votre campagne.",
+    "subtitle": "Prospection porte-à-porte complète, adaptée à vos objectifs de campagne.",
     "items": [
       {
-        "title": "Télécoms & Fibre",
-        "description": "Des équipes sur le terrain qui convertissent les foyers aux forfaits Internet haut débit et fibre selon un modèle de paiement à la performance."
+        "title": "Équipes de vente porte-à-porte",
+        "description": "Augmentez vos conversions avec nos équipes de vente d’élite. Nos ambassadeurs de marque formés offrent une prospection éthique et en personne qui transforme les portes en clients partout au Canada. De la prospection à la conclusion, nous prenons en charge chaque étape en maximisant votre ROI, tout en protégeant votre réputation grâce à des scripts basés sur les données et des pratiques de vente conformes."
       },
       {
-        "title": "Énergie & Services publics",
-        "description": "Des représentants certifiés qui informent les résidents sur les améliorations d’efficacité énergétique et les programmes de compteurs intelligents, favorisant l’adhésion et la satisfaction."
+        "title": "Couverture régionale ciblée",
+        "description": "Touchez les bons foyers au bon moment. Nous croisons les données démographiques, les codes postaux et les services publics pour créer des zones de prospection ciblées, assurant une couverture hyper-locale à travers le Canada."
       },
       {
-        "title": "Améliorations des services à domicile",
-        "description": "De l’entretien CVC aux installations de filtration d’eau, nous livrons des prospects qualifiés directement dans votre agenda — sans appels à froid."
+        "title": "Rapports en temps réel et suivi de performance",
+        "description": "Gardez le contrôle! Suivez les visites, les conversions et les indicateurs de performance en direct depuis n’importe quel appareil, intégrez les résultats à votre CRM et recevez des alertes de performance automatisées. Des métriques transparentes vous permettent d’optimiser vos offres, ajuster les territoires et déployer les tactiques gagnantes en temps réel."
       },
       {
-        "title": "Campagnes à but non lucratif",
-        "description": "Collecte de fonds éthique et campagnes de sensibilisation qui résonnent à la porte et créent des relations durables avec les donateurs pour les ONG."
+        "title": "Campagnes pour OBNL",
+        "description": "Nous menons des campagnes de sensibilisation et de collecte de fonds éthiques qui résonnent au seuil des portes, favorisant des relations durables entre votre OBNL et les donateurs. Amplifiez votre mission avec nos équipes dédiées et porteuses de sens."
       }
-    ]
+    ],
+    "more": "En savoir plus"
   },
   "process": {
-    "title": "Comment ça marche",
-    "subtitle": "Un cadre simple et reproductible perfectionné au fil de centaines de campagnes.",
+    "title": "Comment ça fonctionne",
+    "subtitle": "Un cadre simple et reproductible, perfectionné au fil de centaines de campagnes porte-à-porte.",
     "steps": [
       {
-        "title": "Recruter",
-        "text": "Nous sélectionnons des représentants vérifiés qui correspondent à la culture de votre marque et aux exigences de conformité."
+        "title": "Recrutement",
+        "text": "Nous sélectionnons avec soin des représentants vérifiés qui correspondent à la culture de votre marque et répondent aux exigences réglementaires."
       },
       {
-        "title": "Former",
-        "text": "Jeux de rôle, immersion produit et gestion des objections — tous suivis via un LMS."
+        "title": "Formation",
+        "text": "Jeux de rôles, immersion produit et gestion des objections. La formation est adaptée à vos objectifs et processus spécifiques."
       },
       {
-        "title": "Déployer",
-        "text": "Les équipes se déploient dans les régions de Toronto & Ottawa avec pointages GPS et scripts en direct."
+        "title": "Déploiement",
+        "text": "Les équipes sont déployées dans vos régions cibles avec géolocalisation et scripts en direct."
       },
       {
-        "title": "Rapporter",
-        "text": "Tableaux de bord en temps réel, rapports quotidiens et flux API directement vers votre CRM."
+        "title": "Rapports",
+        "text": "Tableaux de bord en temps réel, bilans quotidiens et flux API vers votre CRM."
       }
     ]
   },
   "cases": {
     "title": "Études de cas",
-    "subtitle": "Campagnes réelles, impact mesurable.",
+    "subtitle": "Des campagnes concrètes, des résultats mesurables.",
     "items": [
       {
-        "company": "FibreCo East",
-        "problem": "Croissance lente des abonnés dans les nouvelles zones de déploiement",
-        "solution": "TDX a déployé deux équipes pour un blitz de 6 semaines, adaptant le pitch aux problèmes de connexion Internet du quartier.",
-        "result": "+1 420 nouvelles inscriptions (14 % de conversion porte-à-porte) et 96 % de satisfaction client."
-      },
-      {
-        "company": "GreenGrid Energy",
-        "problem": "Faible adoption des thermostats intelligents dans les maisons individuelles",
-        "solution": "Un script orienté démonstration et planification instantanée par QR code pour les installations.",
-        "result": "2 300 prospects qualifiés → 880 installations en 8 semaines."
+        "company": "Acon",
+        "problem": "Le consentement des propriétaires était requis maison par maison avant de pouvoir lancer les travaux de fibre optique à Toronto et Ottawa. Les envois postaux et courriels n’ont pas atteint tous les résidents.",
+        "solution": "TDX a déployé des équipes terrain cartographiées par quartier, qui ont présenté le projet, répondu aux préoccupations et obtenu le consentement signé via un CRM mobile avec suivi en temps réel.",
+        "result": "Plus de 100 000 foyers visités et un taux de consentement de 90 %, permettant de démarrer les travaux dans les délais et d’éviter des retards coûteux."
       }
     ]
   },
   "about": {
     "title": "Qui nous sommes",
-    "text": "Fondée en 2019, TDX Solution a aidé ses partenaires à engager plus de 30 000 foyers à Toronto et Ottawa. Notre mission est de créer des connexions humaines honnêtes au seuil de la porte tout en fournissant à nos clients des résultats en temps réel riches en données.",
+    "text": "Fondée en 2019, TDX Solution a aidé ses partenaires à atteindre plus de 120 000 foyers à travers le Canada. Notre mission : créer des liens humains honnêtes à la porte tout en livrant des résultats riches en données, en temps réel.",
     "points": [
-      "Vente éthique basée sur la permission",
-      "Tableaux de bord de données mis à jour toutes les 24 h",
+      "Vente éthique basée sur le consentement",
+      "Tableaux de bord mis à jour toutes les 24h",
       "Représentants vérifiés et assurés"
     ],
     "missionTitle": "Notre mission",
-    "missionText": "Autonomiser les marques et les communautés grâce à des conversations porte-à-porte respectueuses qui transforment les voisins en clients fidèles — le tout soutenu par des rapports transparents et un modèle de paiement à la performance."
+    "missionText": "Donner du pouvoir aux marques et aux communautés grâce à des conversations respectueuses en porte-à-porte qui transforment les voisins en clients fidèles — soutenu par des rapports transparents et un modèle axé sur la performance."
   },
   "contact": {
     "title": "Contactez-nous",
-    "subtitle": "Prêt à dynamiser votre prochaine campagne ? Réservez un appel découverte dès aujourd’hui.",
+    "subtitle": "Prêt à dynamiser votre prochaine campagne avec notre prospection porte-à-porte ? Réservez un appel découverte dès aujourd’hui.",
     "form": {
       "first": "Prénom",
       "last": "Nom",
       "email": "Courriel",
       "message": "Parlez-nous de votre projet",
-      "send": "Envoyer le message"
+      "send": "Envoyer"
     },
     "info": [
-      { "label": "Téléphone", "value": "+1 (416) 555-0134" },
       { "label": "Courriel", "value": "admin@tdxsolution.com" },
-      { "label": "Zone de service", "value": "Toronto · Ottawa" }
+      { "label": "Zone de service", "value": "Partout au Canada" }
     ]
   },
   "footer": {
-    "summary": "Partenaire éthique de vente porte-à-porte servant Toronto et Ottawa.\nPlus de 30 000 foyers engagés depuis 2019.",
+    "summary": "Partenaire de vente porte-à-porte éthique desservant les clients à travers le Canada.\nPlus de 120 000 foyers rejoints depuis 2019.",
     "sections": [
       {
         "title": "Services",
         "links": [
-          "Télécoms & Fibre",
-          "Énergie & Services publics",
+          "Télécom et Fibre",
+          "Énergie et services publics",
           "Améliorations des services à domicile",
-          "Campagnes à but non lucratif"
+          "Campagnes pour OBNL"
         ]
       },
       {
@@ -130,12 +124,12 @@
       },
       {
         "title": "Légal",
-        "links": ["Politique de confidentialité", "Conditions d’utilisation"]
+        "links": ["Politique de confidentialité", "Conditions d'utilisation"]
       }
     ],
     "copyright": "© 2025 TDX Solution Inc. · Tous droits réservés.",
     "developer": {
-      "description": "Vous voulez un site magnifiquement conçu et optimisé pour le SEO ? Contactez le",
+      "description": "Vous souhaitez un site performant et bien référencé ? Contactez le",
       "name": "Développeur"
     }
   }

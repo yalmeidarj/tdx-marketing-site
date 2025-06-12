@@ -3,102 +3,97 @@
     "home": "Inicio",
     "services": "Servicios",
     "process": "Proceso",
-    "cases": "Casos de Estudio",
-    "about": "Nosotros",
+    "cases": "Casos de Éxito",
+    "about": "Sobre Nosotros",
     "contact": "Contacto"
   },
   "hero": {
-    "subheading": "Más de 30 000 hogares alcanzados · Toronto y Ottawa",
+    "subheading": "120 000+ hogares alcanzados · En todo Canadá",
     "title": "Equipos de ventas puerta a puerta",
-    "highlight": "que generan resultados",
-    "text": "TDX Solution ofrece un alcance ético impulsado por datos que convierte los golpes en clientes — en los sectores de telecomunicaciones, energía, servicios para el hogar y organizaciones sin fines de lucro.",
-    "ctaPrimary": "Agenda una llamada de 15 min",
-    "ctaSecondary": "Descargar folleto"
+    "highlight": "Que generan resultados",
+    "text": "Ofrecemos campañas éticas y basadas en datos que convierten puertas tocadas en clientes — en telecomunicaciones, energía, servicios para el hogar y organizaciones sin fines de lucro.",
+    "ctaPrimary": "Contáctanos",
+    "ctaSecondary": "Descargar Folleto"
   },
   "proof": {
     "stats": [
-      { "number": "30 000+", "label": "Hogares alcanzados" },
-      { "number": "12%", "label": "Conversión promedio" },
-      { "number": "4", "label": "Equipos de campo dedicados" },
-      { "number": "2", "label": "Ciudades principales" }
+      { "number": "85 % +", "label": "Tasa de conversión promedio" },
+      { "number": "120 000+", "label": "Hogares contactados" },
+      { "number": "5 +", "label": "Desde 2020" },
+      { "number": "Canadá", "label": "Presencia nacional" }
     ]
   },
   "services": {
-    "title": "Nuestros servicios",
-    "subtitle": "Alcance puerta a puerta general escalado a los objetivos de tu campaña.",
+    "title": "Nuestros Servicios",
+    "subtitle": "Alcance puerta a puerta personalizado según los objetivos de tu campaña.",
     "items": [
       {
-        "title": "Telecomunicaciones y Fibra",
-        "description": "Equipos en terreno que convierten hogares a paquetes de internet de alta velocidad y fibra bajo un modelo de pago por rendimiento."
+        "title": "Equipos de ventas puerta a puerta",
+        "description": "Impulsa tus conversiones con nuestros equipos de ventas altamente capacitados. Nuestros embajadores de marca brindan contacto directo y ético que convierte visitas en clientes en todo Canadá. Desde la prospección hasta el cierre, manejamos cada paso, maximizando tu retorno y protegiendo la reputación de tu marca con guiones basados en datos y prácticas de ventas cumplidoras."
       },
       {
-        "title": "Energía y Servicios Públicos",
-        "description": "Representantes certificados que educan a los residentes sobre mejoras de eficiencia energética y programas de medidores inteligentes, impulsando la inscripción y la satisfacción."
+        "title": "Cobertura regional segmentada",
+        "description": "Llega a los hogares correctos en el momento adecuado. Utilizamos datos demográficos, códigos postales y de servicios públicos para definir zonas de cobertura hiperlocales en todo Canadá."
       },
       {
-        "title": "Mejoras de servicios para el hogar",
-        "description": "Desde mantenimiento HVAC hasta instalaciones de filtración de agua, entregamos clientes potenciales calificados directamente a tu calendario — sin llamadas en frío."
+        "title": "Reportes en tiempo real y seguimiento de rendimiento",
+        "description": "¡Mantén el control! Supervisa visitas, conversiones e indicadores de rendimiento en tiempo real desde cualquier dispositivo, integra los resultados con tu CRM y recibe alertas automáticas. Métricas claras para optimizar ofertas, ajustar zonas y escalar tácticas ganadoras al instante."
       },
       {
         "title": "Campañas sin fines de lucro",
-        "description": "Recaudación ética de fondos y campañas de concientización que resuenan en la puerta y construyen relaciones duraderas con los donantes para las ONG."
+        "description": "Realizamos campañas éticas de recaudación y concienciación puerta a puerta que conectan con las personas, construyendo relaciones duraderas con donantes. Amplifica tu causa con nuestros equipos comprometidos y orientados a la misión."
       }
-    ]
+    ],
+    "more": "Ver más"
   },
   "process": {
-    "title": "Cómo funciona",
-    "subtitle": "Un marco sencillo y repetible perfeccionado en cientos de campañas.",
+    "title": "Cómo Funciona",
+    "subtitle": "Un proceso simple y repetible, perfeccionado tras cientos de campañas puerta a puerta.",
     "steps": [
       {
-        "title": "Reclutar",
-        "text": "Seleccionamos representantes verificados que se ajustan a la cultura de tu marca y a los requisitos de cumplimiento."
+        "title": "Reclutamiento",
+        "text": "Seleccionamos representantes verificados que se alinean con tu marca y cumplen con todos los requisitos normativos."
       },
       {
-        "title": "Capacitar",
-        "text": "Role-play, inmersión en el producto y manejo de objeciones — todo seguido a través de un LMS."
+        "title": "Capacitación",
+        "text": "Simulaciones, formación sobre el producto y manejo de objeciones. Todo personalizado según tu campaña y objetivos."
       },
       {
-        "title": "Desplegar",
-        "text": "Los equipos se despliegan en las regiones de Toronto y Ottawa con registros GPS y guiones en vivo."
+        "title": "Despliegue",
+        "text": "Los equipos se despliegan en las zonas objetivo con seguimiento GPS y guiones interactivos."
       },
       {
-        "title": "Informar",
-        "text": "Tableros en tiempo real, resúmenes diarios y feeds API directamente a tu CRM."
+        "title": "Reporte",
+        "text": "Tableros en tiempo real, resúmenes diarios y conexiones API con tu CRM."
       }
     ]
   },
   "cases": {
-    "title": "Casos de Estudio",
+    "title": "Casos de Éxito",
     "subtitle": "Campañas reales, impacto medible.",
     "items": [
       {
-        "company": "FibreCo East",
-        "problem": "Crecimiento lento de suscriptores en nuevas zonas de despliegue",
-        "solution": "TDX desplegó dos equipos para una campaña intensiva de 6 semanas, adaptando el discurso a los problemas de internet del vecindario.",
-        "result": "+1 420 nuevas suscripciones (14 % de conversión puerta a puerta) y 96 % de satisfacción del cliente."
-      },
-      {
-        "company": "GreenGrid Energy",
-        "problem": "Baja adopción de termostatos inteligentes en viviendas unifamiliares",
-        "solution": "Se entregó un guion centrado en la demostración y programación instantánea mediante código QR para las instalaciones.",
-        "result": "2 300 clientes potenciales calificados → 880 instalaciones en 8 semanas."
+        "company": "Acon",
+        "problem": "Era obligatorio obtener el consentimiento casa por casa antes de iniciar la construcción de fibra óptica en Toronto y Ottawa, pero los avisos por correo y digitales no llegaron a todos los residentes.",
+        "solution": "TDX desplegó equipos mapeados por vecindario que explicaron el proyecto, resolvieron dudas y captaron consentimientos firmados con seguimiento en tiempo real a través de un CRM móvil.",
+        "result": "Más de 100 000 hogares visitados y una tasa de consentimiento del 90 %, lo que permitió iniciar la obra a tiempo sin costosos retrasos."
       }
     ]
   },
   "about": {
-    "title": "Quiénes somos",
-    "text": "Fundada en 2019, TDX Solution ha ayudado a sus socios a alcanzar más de 30 000 hogares en Toronto y Ottawa. Nuestra misión es construir conexiones humanas honestas en la puerta mientras entregamos resultados en tiempo real y ricos en datos a nuestros clientes.",
+    "title": "Quiénes Somos",
+    "text": "Fundada en 2019, TDX Solution ha ayudado a sus socios a conectar con más de 120 000 hogares en Canadá. Nuestra misión es crear conexiones humanas honestas en la puerta, entregando resultados ricos en datos y en tiempo real.",
     "points": [
-      "Venta ética basada en permiso",
-      "Paneles de datos actualizados cada 24 h",
+      "Ventas éticas con consentimiento",
+      "Tableros de datos actualizados cada 24 h",
       "Representantes verificados y asegurados"
     ],
-    "missionTitle": "Nuestra misión",
-    "missionText": "Empoderar a marcas y comunidades mediante conversaciones respetuosas puerta a puerta que conviertan vecinos en clientes leales — todo respaldado por informes transparentes y un modelo de pago por rendimiento."
+    "missionTitle": "Nuestra Misión",
+    "missionText": "Empoderar a marcas y comunidades mediante conversaciones respetuosas puerta a puerta que conviertan vecinos en clientes leales — con reportes transparentes y enfoque en el rendimiento."
   },
   "contact": {
-    "title": "Ponte en contacto",
-    "subtitle": "¿Listo para impulsar tu próxima campaña? Reserva una llamada de descubrimiento hoy.",
+    "title": "Contáctanos",
+    "subtitle": "¿Listo para potenciar tu próxima campaña con nuestro alcance puerta a puerta? Agenda una llamada hoy.",
     "form": {
       "first": "Nombre",
       "last": "Apellido",
@@ -107,26 +102,25 @@
       "send": "Enviar mensaje"
     },
     "info": [
-      { "label": "Teléfono", "value": "+1 (416) 555-0134" },
-      { "label": "Correo electrónico", "value": "admin@tdxsolution.com" },
-      { "label": "Área de servicio", "value": "Toronto · Ottawa" }
+      { "label": "Correo", "value": "admin@tdxsolution.com" },
+      { "label": "Área de servicio", "value": "A nivel nacional en Canadá" }
     ]
   },
   "footer": {
-    "summary": "Socio ético de ventas puerta a puerta que atiende Toronto y Ottawa.\nMás de 30 000 hogares alcanzados desde 2019.",
+    "summary": "Socio ético en ventas puerta a puerta, atendiendo clientes en todo Canadá.\nMás de 120 000 hogares contactados desde 2019.",
     "sections": [
       {
         "title": "Servicios",
         "links": [
           "Telecomunicaciones y Fibra",
           "Energía y Servicios Públicos",
-          "Mejoras de servicios para el hogar",
-          "Campañas sin fines de lucro"
+          "Mejoras para el Hogar",
+          "Campañas sin Fines de Lucro"
         ]
       },
       {
         "title": "Empresa",
-        "links": ["Nosotros", "Carreras", "Casos de Estudio", "Contacto"]
+        "links": ["Sobre Nosotros", "Carreras", "Casos de Éxito", "Contacto"]
       },
       {
         "title": "Legal",
@@ -135,7 +129,7 @@
     ],
     "copyright": "© 2025 TDX Solution Inc. · Todos los derechos reservados.",
     "developer": {
-      "description": "¿Quieres un sitio bellamente diseñado y con un SEO de alto rendimiento? Contacta al",
+      "description": "¿Quieres un sitio bien diseñado y optimizado para SEO? Contacta al",
       "name": "Desarrollador"
     }
   }

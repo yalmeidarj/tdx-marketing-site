@@ -49,8 +49,8 @@ export default async function Services() {
 
                                 {/* Description – clamped until open */}
                                 <CollapsibleContent
-                                    asChild                                      // let <p> be the actual element
-                                    forceMount                                  // always in DOM so clamp can toggle
+                                    asChild                                      
+                                    forceMount                                  
                                 >
                                     <p
                                         className={`
@@ -66,7 +66,7 @@ export default async function Services() {
 
                                 {/* Trigger */}
                                 <CollapsibleTrigger
-                                    className="learn-more inline-flex items-bottom  mt-4
+                                    className="text-green-900 learn-more inline-flex items-bottom  mt-4
                                group-data-[state=open]:font-medium cursor-pointer"
                                 >
                                     <span>{t("more")}</span>

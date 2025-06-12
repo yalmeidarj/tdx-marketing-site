@@ -50,7 +50,7 @@ export default async function Contact() {
                                         <Icon className="text-[#6BD8DA]" size={24} />
                                     </div>
                                     <div>
-                                        <h4 className="text-lg font-semibold text-[#1F1B1C] mb-1">{label}</h4>
+                                        <h3 className="text-lg font-semibold text-[#1F1B1C] mb-1">{label}</h3>
                                         <p className="text-[#6B7280] whitespace-pre-line">{value}</p>
                                     </div>
                                 </div>

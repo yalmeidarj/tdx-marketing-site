@@ -17,7 +17,7 @@ export default async function Footer() {
                     </div>
                     {sections.map(({ title, links }) => (
                         <div key={title}>
-                            <h5 className="font-semibold mb-4">{title}</h5>
+                            <h1 className="font-semibold mb-4">{title}</h1>
                             <ul className="space-y-2 text-[#C9C7C5]">
                                 {links.map((l) => (
                                     <li key={l}>
