@@ -3,9 +3,10 @@
 import { Collapsible, CollapsibleContent, CollapsibleTrigger } from '@/components/ui/collapsible';
 import { ChevronRight } from 'lucide-react';
 import { useState } from 'react';
+import { LucideIcon } from "lucide-react";
 
 interface Props {
-    icon: React.ReactNode;
+    icon: LucideIcon;
     title: string;
     description: string;
     maxHeight?: string;              
