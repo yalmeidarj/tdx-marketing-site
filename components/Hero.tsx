@@ -1,10 +1,9 @@
 import { ArrowRight } from 'lucide-react'
-import { getMessages, getTranslations } from 'next-intl/server'
+import { getTranslations } from 'next-intl/server'
 
 
 export default async function Hero() {
     const t = await getTranslations(('hero'))
-    const messages = await getMessages();
     return (
         <section id="home" className="relative min-h-screen flex items-center">
             <div className="absolute inset-0 bg-gradient-to-br from-[#121852] via-[#1e2a5e] to-[#6BD8DA]" />

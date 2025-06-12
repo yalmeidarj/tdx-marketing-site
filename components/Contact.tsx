@@ -1,9 +1,7 @@
 import { Phone, Mail, MapPin } from 'lucide-react'
 import { getMessages, getTranslations } from 'next-intl/server';
-
 import ContactForm from './contact-form';
-
-  
+ 
 
 export default async function Contact() {
     const t = await getTranslations(('contact'));
@@ -17,7 +15,6 @@ export default async function Contact() {
                 <h2 className="section-title">{t('title')}</h2>
                 <p className="section-sub max-w-2xl mx-auto">{t('subtitle')}</p>
                 <div className="mt-16 grid lg:grid-cols-2 gap-16 text-left">
-
                     <ContactForm
                         action="/api/send"
                         placeholders={{
@@ -50,5 +47,3 @@ export default async function Contact() {
         </section>
     )
 }
-
-ContactForm
