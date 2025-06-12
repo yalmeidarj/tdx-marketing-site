@@ -30,9 +30,7 @@ export const metadata: Metadata = {
         siteName: "TDX Solution",
         images: [
             {
-                url: "/opengraph.jpg", // ensure this path is correct
-                width: 1200,
-                height: 630,
+                url: "https://tdx-solutions.vercel.app/logo.png", 
                 alt: "TDX Solution Door-to-Door Campaigns"
             }
         ],
@@ -44,7 +42,7 @@ export const metadata: Metadata = {
         title: "Door-to-Door Sales Teams Across Canada | TDX Solution",
         description:
             "Data-driven outreach that delivers real results for Canadian campaigns.",
-        images: ["/opengraph.jpg"]
+        images: ["https://tdx-solutions.vercel.app/logo.png"]
     },
     metadataBase: new URL("https://tdx-solutions.vercel.app")
 };
