@@ -2,6 +2,8 @@ import { NextIntlClientProvider, hasLocale } from 'next-intl';
 import { notFound } from 'next/navigation';
 import { routing } from '@/i18n/routing';
 import '../globals.css';
+import { Toaster } from '@/components/ui/sonner';
+// import { Toaster } from 'sonner';
 
 export default async function LocaleLayout({
     children,
@@ -19,6 +21,7 @@ export default async function LocaleLayout({
     return (
         <html lang={locale}>
             <body>
+                <Toaster position="top-center" richColors />
                 <NextIntlClientProvider>{children}</NextIntlClientProvider>
             </body>
         </html>

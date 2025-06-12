@@ -1,6 +1,142 @@
 {
-  "HomePage": {
-    "title": "Hello world!",
-    "about": "Go to the about page"
+  "navigation": {
+    "home": "Accueil",
+    "services": "Services",
+    "process": "Processus",
+    "cases": "Études de cas",
+    "about": "À propos",
+    "contact": "Contact"
+  },
+  "hero": {
+    "subheading": "Plus de 30 000 foyers atteints · Toronto & Ottawa",
+    "title": "Équipes de vente porte-à-porte",
+    "highlight": "qui obtiennent des résultats",
+    "text": "TDX Solution fournit une approche éthique et axée sur les données qui transforme les coups à la porte en clients — dans les secteurs des télécoms, de l’énergie, des services à domicile et des organisations à but non lucratif.",
+    "ctaPrimary": "Réserver un appel de 15 min",
+    "ctaSecondary": "Télécharger la brochure"
+  },
+  "proof": {
+    "stats": [
+      { "number": "30 000+", "label": "Foyers engagés" },
+      { "number": "12%", "label": "Taux de conversion moyen" },
+      { "number": "4", "label": "Équipes terrain dédiées" },
+      { "number": "2", "label": "Villes principales" }
+    ]
+  },
+  "services": {
+    "title": "Nos services",
+    "subtitle": "Sensibilisation porte-à-porte générale adaptée aux objectifs de votre campagne.",
+    "items": [
+      {
+        "title": "Télécoms & Fibre",
+        "description": "Des équipes sur le terrain qui convertissent les foyers aux forfaits Internet haut débit et fibre selon un modèle de paiement à la performance."
+      },
+      {
+        "title": "Énergie & Services publics",
+        "description": "Des représentants certifiés qui informent les résidents sur les améliorations d’efficacité énergétique et les programmes de compteurs intelligents, favorisant l’adhésion et la satisfaction."
+      },
+      {
+        "title": "Améliorations des services à domicile",
+        "description": "De l’entretien CVC aux installations de filtration d’eau, nous livrons des prospects qualifiés directement dans votre agenda — sans appels à froid."
+      },
+      {
+        "title": "Campagnes à but non lucratif",
+        "description": "Collecte de fonds éthique et campagnes de sensibilisation qui résonnent à la porte et créent des relations durables avec les donateurs pour les ONG."
+      }
+    ]
+  },
+  "process": {
+    "title": "Comment ça marche",
+    "subtitle": "Un cadre simple et reproductible perfectionné au fil de centaines de campagnes.",
+    "steps": [
+      {
+        "title": "Recruter",
+        "text": "Nous sélectionnons des représentants vérifiés qui correspondent à la culture de votre marque et aux exigences de conformité."
+      },
+      {
+        "title": "Former",
+        "text": "Jeux de rôle, immersion produit et gestion des objections — tous suivis via un LMS."
+      },
+      {
+        "title": "Déployer",
+        "text": "Les équipes se déploient dans les régions de Toronto & Ottawa avec pointages GPS et scripts en direct."
+      },
+      {
+        "title": "Rapporter",
+        "text": "Tableaux de bord en temps réel, rapports quotidiens et flux API directement vers votre CRM."
+      }
+    ]
+  },
+  "cases": {
+    "title": "Études de cas",
+    "subtitle": "Campagnes réelles, impact mesurable.",
+    "items": [
+      {
+        "company": "FibreCo East",
+        "problem": "Croissance lente des abonnés dans les nouvelles zones de déploiement",
+        "solution": "TDX a déployé deux équipes pour un blitz de 6 semaines, adaptant le pitch aux problèmes de connexion Internet du quartier.",
+        "result": "+1 420 nouvelles inscriptions (14 % de conversion porte-à-porte) et 96 % de satisfaction client."
+      },
+      {
+        "company": "GreenGrid Energy",
+        "problem": "Faible adoption des thermostats intelligents dans les maisons individuelles",
+        "solution": "Un script orienté démonstration et planification instantanée par QR code pour les installations.",
+        "result": "2 300 prospects qualifiés → 880 installations en 8 semaines."
+      }
+    ]
+  },
+  "about": {
+    "title": "Qui nous sommes",
+    "text": "Fondée en 2019, TDX Solution a aidé ses partenaires à engager plus de 30 000 foyers à Toronto et Ottawa. Notre mission est de créer des connexions humaines honnêtes au seuil de la porte tout en fournissant à nos clients des résultats en temps réel riches en données.",
+    "points": [
+      "Vente éthique basée sur la permission",
+      "Tableaux de bord de données mis à jour toutes les 24 h",
+      "Représentants vérifiés et assurés"
+    ],
+    "missionTitle": "Notre mission",
+    "missionText": "Autonomiser les marques et les communautés grâce à des conversations porte-à-porte respectueuses qui transforment les voisins en clients fidèles — le tout soutenu par des rapports transparents et un modèle de paiement à la performance."
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Prêt à dynamiser votre prochaine campagne ? Réservez un appel découverte dès aujourd’hui.",
+    "form": {
+      "first": "Prénom",
+      "last": "Nom",
+      "email": "Courriel",
+      "message": "Parlez-nous de votre projet",
+      "send": "Envoyer le message"
+    },
+    "info": [
+      { "label": "Téléphone", "value": "+1 (416) 555-0134" },
+      { "label": "Courriel", "value": "admin@tdxsolution.com" },
+      { "label": "Zone de service", "value": "Toronto · Ottawa" }
+    ]
+  },
+  "footer": {
+    "summary": "Partenaire éthique de vente porte-à-porte servant Toronto et Ottawa.\nPlus de 30 000 foyers engagés depuis 2019.",
+    "sections": [
+      {
+        "title": "Services",
+        "links": [
+          "Télécoms & Fibre",
+          "Énergie & Services publics",
+          "Améliorations des services à domicile",
+          "Campagnes à but non lucratif"
+        ]
+      },
+      {
+        "title": "Entreprise",
+        "links": ["À propos", "Carrières", "Études de cas", "Contact"]
+      },
+      {
+        "title": "Légal",
+        "links": ["Politique de confidentialité", "Conditions d’utilisation"]
+      }
+    ],
+    "copyright": "© 2025 TDX Solution Inc. · Tous droits réservés.",
+    "developer": {
+      "description": "Vous voulez un site magnifiquement conçu et optimisé pour le SEO ? Contactez le",
+      "name": "Développeur"
+    }
   }
 }

@@ -1,12 +1,25 @@
-import { useTranslations } from 'next-intl';
-import { Link } from '@/i18n/navigation';
-import App from '@/components/App';
+import About from '@/components/About';
+import CaseStudies from '@/components/CaseStudies';
+import Footer from '@/components/Footer';
+import Header from '@/components/Header';
+import Hero from '@/components/Hero';
+import Process from '@/components/Process';
+import Proof from '@/components/Proof';
+import Services from '@/components/Services';
+import Contact from '@/components/Contact';
 
 export default function HomePage() {
-    const t = useTranslations('HomePage');
     return (
-        <div>
-            <App />
+        <div className="min-h-screen bg-white scroll-smooth">
+            <Header />
+            <Hero />
+            <Proof />
+            <Services />
+            <Process />
+            <CaseStudies />
+            <About />
+            <Contact />
+            <Footer />
         </div>
     );
 }

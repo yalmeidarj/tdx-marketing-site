@@ -1,6 +1,142 @@
 {
-  "HomePage": {
-    "title": "Hola mundo",    
-    "about": "Ir a la página de about"
+  "navigation": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "process": "Proceso",
+    "cases": "Casos de Estudio",
+    "about": "Nosotros",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "subheading": "Más de 30 000 hogares alcanzados · Toronto y Ottawa",
+    "title": "Equipos de ventas puerta a puerta",
+    "highlight": "que generan resultados",
+    "text": "TDX Solution ofrece un alcance ético impulsado por datos que convierte los golpes en clientes — en los sectores de telecomunicaciones, energía, servicios para el hogar y organizaciones sin fines de lucro.",
+    "ctaPrimary": "Agenda una llamada de 15 min",
+    "ctaSecondary": "Descargar folleto"
+  },
+  "proof": {
+    "stats": [
+      { "number": "30 000+", "label": "Hogares alcanzados" },
+      { "number": "12%", "label": "Conversión promedio" },
+      { "number": "4", "label": "Equipos de campo dedicados" },
+      { "number": "2", "label": "Ciudades principales" }
+    ]
+  },
+  "services": {
+    "title": "Nuestros servicios",
+    "subtitle": "Alcance puerta a puerta general escalado a los objetivos de tu campaña.",
+    "items": [
+      {
+        "title": "Telecomunicaciones y Fibra",
+        "description": "Equipos en terreno que convierten hogares a paquetes de internet de alta velocidad y fibra bajo un modelo de pago por rendimiento."
+      },
+      {
+        "title": "Energía y Servicios Públicos",
+        "description": "Representantes certificados que educan a los residentes sobre mejoras de eficiencia energética y programas de medidores inteligentes, impulsando la inscripción y la satisfacción."
+      },
+      {
+        "title": "Mejoras de servicios para el hogar",
+        "description": "Desde mantenimiento HVAC hasta instalaciones de filtración de agua, entregamos clientes potenciales calificados directamente a tu calendario — sin llamadas en frío."
+      },
+      {
+        "title": "Campañas sin fines de lucro",
+        "description": "Recaudación ética de fondos y campañas de concientización que resuenan en la puerta y construyen relaciones duraderas con los donantes para las ONG."
+      }
+    ]
+  },
+  "process": {
+    "title": "Cómo funciona",
+    "subtitle": "Un marco sencillo y repetible perfeccionado en cientos de campañas.",
+    "steps": [
+      {
+        "title": "Reclutar",
+        "text": "Seleccionamos representantes verificados que se ajustan a la cultura de tu marca y a los requisitos de cumplimiento."
+      },
+      {
+        "title": "Capacitar",
+        "text": "Role-play, inmersión en el producto y manejo de objeciones — todo seguido a través de un LMS."
+      },
+      {
+        "title": "Desplegar",
+        "text": "Los equipos se despliegan en las regiones de Toronto y Ottawa con registros GPS y guiones en vivo."
+      },
+      {
+        "title": "Informar",
+        "text": "Tableros en tiempo real, resúmenes diarios y feeds API directamente a tu CRM."
+      }
+    ]
+  },
+  "cases": {
+    "title": "Casos de Estudio",
+    "subtitle": "Campañas reales, impacto medible.",
+    "items": [
+      {
+        "company": "FibreCo East",
+        "problem": "Crecimiento lento de suscriptores en nuevas zonas de despliegue",
+        "solution": "TDX desplegó dos equipos para una campaña intensiva de 6 semanas, adaptando el discurso a los problemas de internet del vecindario.",
+        "result": "+1 420 nuevas suscripciones (14 % de conversión puerta a puerta) y 96 % de satisfacción del cliente."
+      },
+      {
+        "company": "GreenGrid Energy",
+        "problem": "Baja adopción de termostatos inteligentes en viviendas unifamiliares",
+        "solution": "Se entregó un guion centrado en la demostración y programación instantánea mediante código QR para las instalaciones.",
+        "result": "2 300 clientes potenciales calificados → 880 instalaciones en 8 semanas."
+      }
+    ]
+  },
+  "about": {
+    "title": "Quiénes somos",
+    "text": "Fundada en 2019, TDX Solution ha ayudado a sus socios a alcanzar más de 30 000 hogares en Toronto y Ottawa. Nuestra misión es construir conexiones humanas honestas en la puerta mientras entregamos resultados en tiempo real y ricos en datos a nuestros clientes.",
+    "points": [
+      "Venta ética basada en permiso",
+      "Paneles de datos actualizados cada 24 h",
+      "Representantes verificados y asegurados"
+    ],
+    "missionTitle": "Nuestra misión",
+    "missionText": "Empoderar a marcas y comunidades mediante conversaciones respetuosas puerta a puerta que conviertan vecinos en clientes leales — todo respaldado por informes transparentes y un modelo de pago por rendimiento."
+  },
+  "contact": {
+    "title": "Ponte en contacto",
+    "subtitle": "¿Listo para impulsar tu próxima campaña? Reserva una llamada de descubrimiento hoy.",
+    "form": {
+      "first": "Nombre",
+      "last": "Apellido",
+      "email": "Correo electrónico",
+      "message": "Cuéntanos sobre tu proyecto",
+      "send": "Enviar mensaje"
+    },
+    "info": [
+      { "label": "Teléfono", "value": "+1 (416) 555-0134" },
+      { "label": "Correo electrónico", "value": "admin@tdxsolution.com" },
+      { "label": "Área de servicio", "value": "Toronto · Ottawa" }
+    ]
+  },
+  "footer": {
+    "summary": "Socio ético de ventas puerta a puerta que atiende Toronto y Ottawa.\nMás de 30 000 hogares alcanzados desde 2019.",
+    "sections": [
+      {
+        "title": "Servicios",
+        "links": [
+          "Telecomunicaciones y Fibra",
+          "Energía y Servicios Públicos",
+          "Mejoras de servicios para el hogar",
+          "Campañas sin fines de lucro"
+        ]
+      },
+      {
+        "title": "Empresa",
+        "links": ["Nosotros", "Carreras", "Casos de Estudio", "Contacto"]
+      },
+      {
+        "title": "Legal",
+        "links": ["Política de Privacidad", "Términos de Servicio"]
+      }
+    ],
+    "copyright": "© 2025 TDX Solution Inc. · Todos los derechos reservados.",
+    "developer": {
+      "description": "¿Quieres un sitio bellamente diseñado y con un SEO de alto rendimiento? Contacta al",
+      "name": "Desarrollador"
+    }
   }
 }

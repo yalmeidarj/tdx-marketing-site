@@ -1,6 +1,142 @@
 {
-  "HomePage": {
-    "title": "Hello world!",
-    "about": "Go to the about page"
+  "navigation": {
+    "home": "Início",
+    "services": "Serviços",
+    "process": "Processo",
+    "cases": "Estudos de Caso",
+    "about": "Sobre",
+    "contact": "Contato"
+  },
+  "hero": {
+    "subheading": "Mais de 30 000 lares alcançados · Toronto e Ottawa",
+    "title": "Equipes de vendas porta-a-porta",
+    "highlight": "que entregam resultados",
+    "text": "A TDX Solution oferece prospecção ética e guiada por dados que transforma batidas na porta em clientes — nos setores de telecom, energia, serviços residenciais e ONGs.",
+    "ctaPrimary": "Marcar chamada de 15 min",
+    "ctaSecondary": "Baixar folheto"
+  },
+  "proof": {
+    "stats": [
+      { "number": "30 000+", "label": "Lares engajados" },
+      { "number": "12%", "label": "Taxa média de conversão" },
+      { "number": "4", "label": "Equipes de campo dedicadas" },
+      { "number": "2", "label": "Cidades principais" }
+    ]
+  },
+  "services": {
+    "title": "Nossos serviços",
+    "subtitle": "Prospecção porta-a-porta geral escalada aos objetivos da sua campanha.",
+    "items": [
+      {
+        "title": "Telecom & Fibra",
+        "description": "Equipes presenciais que convertem lares para pacotes de internet de alta velocidade e fibra em modelo de pagamento por performance."
+      },
+      {
+        "title": "Energia & Serviços Públicos",
+        "description": "Representantes certificados que orientam moradores sobre upgrades de eficiência energética e programas de medidores inteligentes, impulsionando adesão e satisfação."
+      },
+      {
+        "title": "Melhorias de Serviços Residenciais",
+        "description": "De manutenção de HVAC a instalações de filtração de água, entregamos leads qualificados direto na sua agenda — sem cold call."
+      },
+      {
+        "title": "Campanhas sem Fins Lucrativos",
+        "description": "Arrecadação ética e ações de conscientização que ressoam na porta e criam relacionamentos duradouros com doadores para ONGs."
+      }
+    ]
+  },
+  "process": {
+    "title": "Como funciona",
+    "subtitle": "Um framework simples e repetível refinado em centenas de campanhas.",
+    "steps": [
+      {
+        "title": "Recrutar",
+        "text": "Selecionamos representantes verificados que se encaixam na cultura da sua marca e nas exigências de compliance."
+      },
+      {
+        "title": "Treinar",
+        "text": "Role-play, imersão no produto e tratamento de objeções — tudo acompanhado via LMS."
+      },
+      {
+        "title": "Implantar",
+        "text": "Equipes em campo nas regiões de Toronto e Ottawa com check-ins de GPS e scripts ao vivo."
+      },
+      {
+        "title": "Reportar",
+        "text": "Dashboards em tempo real, resumos diários e feeds de API direto no seu CRM."
+      }
+    ]
+  },
+  "cases": {
+    "title": "Estudos de Caso",
+    "subtitle": "Campanhas reais, impacto mensurável.",
+    "items": [
+      {
+        "company": "FibreCo East",
+        "problem": "Crescimento lento de assinantes em novas zonas de implantação",
+        "solution": "A TDX mobilizou duas equipes para um blitz de 6 semanas, adaptando o pitch às dores de internet do bairro.",
+        "result": "+1 420 novas assinaturas (14 % de conversão porta-a-porta) e 96 % de satisfação do cliente."
+      },
+      {
+        "company": "GreenGrid Energy",
+        "problem": "Baixa adoção de termostatos inteligentes em casas independentes",
+        "solution": "Script focado em demonstração e agendamento instantâneo via QR Code para instalações.",
+        "result": "2 300 leads qualificados → 880 instalações em 8 semanas."
+      }
+    ]
+  },
+  "about": {
+    "title": "Quem somos",
+    "text": "Fundada em 2019, a TDX Solution ajudou parceiros a engajar mais de 30 000 lares em Toronto e Ottawa. Nossa missão é construir conexões humanas honestas na porta enquanto entregamos resultados em tempo real, ricos em dados, aos nossos clientes.",
+    "points": [
+      "Venda ética baseada em permissão",
+      "Painéis de dados atualizados a cada 24 h",
+      "Representantes verificados e segurados"
+    ],
+    "missionTitle": "Nossa missão",
+    "missionText": "Empoderar marcas e comunidades por meio de conversas porta-a-porta respeitosas que transformam vizinhos em clientes fiéis — tudo respaldado por relatórios transparentes e um modelo de pagamento por performance."
+  },
+  "contact": {
+    "title": "Fale com a gente",
+    "subtitle": "Pronto para turbinar sua próxima campanha? Agende uma call de descoberta hoje.",
+    "form": {
+      "first": "Nome",
+      "last": "Sobrenome",
+      "email": "E-mail",
+      "message": "Conte sobre o seu projeto",
+      "send": "Enviar mensagem"
+    },
+    "info": [
+      { "label": "Telefone", "value": "+1 (416) 555-0134" },
+      { "label": "E-mail", "value": "admin@tdxsolution.com" },
+      { "label": "Área de atendimento", "value": "Toronto · Ottawa" }
+    ]
+  },
+  "footer": {
+    "summary": "Parceiro ético de vendas porta-a-porta atendendo Toronto e Ottawa.\nMais de 30 000 lares engajados desde 2019.",
+    "sections": [
+      {
+        "title": "Serviços",
+        "links": [
+          "Telecom & Fibra",
+          "Energia & Serviços Públicos",
+          "Melhorias de Serviços Residenciais",
+          "Campanhas sem Fins Lucrativos"
+        ]
+      },
+      {
+        "title": "Empresa",
+        "links": ["Sobre", "Carreiras", "Estudos de Caso", "Contato"]
+      },
+      {
+        "title": "Jurídico",
+        "links": ["Política de Privacidade", "Termos de Serviço"]
+      }
+    ],
+    "copyright": "© 2025 TDX Solution Inc. · Todos os direitos reservados.",
+    "developer": {
+      "description": "Quer um site lindo e com alta performance de SEO? Fale com o",
+      "name": "Desenvolvedor"
+    }
   }
 }
